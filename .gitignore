@@ -1,4 +1,3 @@
-.*
 reference-edition
 abc
 kernscores
@@ -7,7 +6,6 @@ mei
 midi
 midi-norep
 musedata
-musicxml
 notearray
 pdf-abc
 pdf-lilypond
